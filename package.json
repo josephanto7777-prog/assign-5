@@ -1,0 +1,21 @@
+{
+  "name": "joseph-anto-portfolio",
+  "version": "1.0.0",
+  "description": "Personal resume and portfolio website for Joseph Anto",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "resume",
+    "joseph-anto"
+  ],
+  "author": "Joseph Anto",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
